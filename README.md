@@ -1,2 +1,2 @@
 # hello
-first time
+first repository
